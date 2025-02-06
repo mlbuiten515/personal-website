@@ -83,7 +83,7 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - position: IT Analyst
+  - position: IT Analyst
     company_name: Scotiabank
     company_url: 'https://www.scotiabank.com/ca/en/personal.html'
     company_logo: ''
@@ -94,7 +94,7 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - position: Technical Analyst
+  - position: Technical Analyst
     company_name: Scotiabank
     company_url: 'https://www.scotiabank.com/ca/en/personal.html'
     company_logo: ''
