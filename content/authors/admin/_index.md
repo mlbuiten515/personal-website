@@ -48,7 +48,7 @@ education:
   - area: MS in Data Science and Artificial Intelligence
     institution: University of Liverpool
     date_start: 2024-09-26
-    date_end: 2025-09-31
+    date_end: 2024-09-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
