@@ -22,7 +22,7 @@ role: Data Scientist | MSc at-symbol
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Liverpool
-#    url: https://openai.com/
+    url: 
 
 
 # Social network links
@@ -47,9 +47,9 @@ education:
     date_end: 2025-09-30
     summary: |
       Dissertation on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com).
-  #  button:
-  #    text: 'Read Thesis'
-   #   url: 'https://example.com'
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: BSc Mathematical Physics
     institution: University of Waterloo
     date_start: 2018-09-07
