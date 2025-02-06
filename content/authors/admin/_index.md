@@ -26,8 +26,7 @@ role: Data Scientist
 organizations:
   - name: University of Liverpool MSC
     url: https://openai.com/
-  - name: University of Waterloo BSc
-    url:
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
