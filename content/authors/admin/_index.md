@@ -2,16 +2,13 @@
 # Display name
 title: Madison Buitenhuis
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Madison
 last_name: Buitenhuis
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,16 +17,15 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Data Scientist | MSc at-symbol
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Liverpool MSC
-    url: https://openai.com/
+  - name: University of Liverpool
+#    url: https://openai.com/
 
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:maddybuitenhuis@gmail.com'
@@ -37,7 +33,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/mlbuiten515
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/madisonbuitenhuis/
 
 interests:
   - Artificial Intelligence
@@ -50,17 +46,15 @@ education:
     date_start: 2024-09-26
     date_end: 2025-09-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Dissertation on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com).
+  #  button:
+  #    text: 'Read Thesis'
+   #   url: 'https://example.com'
   - area: BSc Mathematical Physics
     institution: University of Waterloo
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-09-07
+    date_end: 2023-08-30
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -69,10 +63,10 @@ education:
 work:
   - position: Data Engineer
     company_name: ThoughtWire
-    company_url: ''
+    company_url: 'https://www.thoughtwire.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-05-01
+    date_end: 2022-08-28
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -80,10 +74,32 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Data Analyst
     company_name: Scotiabank
-    company_url: ''
+    company_url: 'https://www.scotiabank.com/ca/en/personal.html'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-01-01
+    date_end: 2021-04-30
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - position: IT Analyst
+    company_name: Scotiabank
+    company_url: 'https://www.scotiabank.com/ca/en/personal.html'
+    company_logo: ''
+    date_start: 2020-09-01
+    date_end: 2020-12-24
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - position: Technical Analyst
+    company_name: Scotiabank
+    company_url: 'https://www.scotiabank.com/ca/en/personal.html'
+    company_logo: ''
+    date_start: 2020-01-04
+    date_end: 2020-04-30
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -124,13 +140,6 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -166,4 +175,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Madison Buitenhuis is a Data Science and Artifical Intelligence Masters student at the University of Liverpool. Her interests include distributed robotics, mobile computing and programmable matter. Her personal projects include...
