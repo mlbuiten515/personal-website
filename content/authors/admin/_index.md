@@ -6,23 +6,19 @@ title: Madison Buitenhuis
 first_name: Madison
 last_name: Buitenhuis
 
-# Status emoji
-#status:
-#  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position/tagline
-role: Data Scientist | MSc at-symbol
+role: Data Scientist | MSc @
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Liverpool
-    url: 
+    url: 'https://www.liverpool.ac.uk//'
 
 
 # Social network links
@@ -46,19 +42,19 @@ education:
     date_start: 2024-09-26
     date_end: 2025-09-30
     summary: |
-      Dissertation on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com).
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      The topic of my Dissertation is currently being determined. My key area of interests are ...
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: BSc Mathematical Physics
     institution: University of Waterloo
     date_start: 2018-09-07
     date_end: 2023-08-30
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Relevant Courses:
+      - Machine Learning in Physical Sciences [Final Project]('https://github.com/jensenlawrence/phys490')
+      - Algorithm Design and Data Abstraction
+      - Computational Physics
   
 work:
   - position: Data Engineer
