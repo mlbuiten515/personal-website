@@ -109,7 +109,7 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        icon: python
+        icon: devicon/python
       - name: pandas
         icon: devicon/pandas
       - name: PyTorch
@@ -137,7 +137,7 @@ skills:
       - name: Excel
         icon: view-columns
       - name: GitHub
-        icon: github
+        icon: devicon/github
   - name: Hobbies & Interests
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -145,11 +145,9 @@ skills:
       - name: Hiking
         icon: person-simple-walk
       - name: Crochet
-        icon: mitten
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: custom/mitten
+      - name: Gym
+        icon: custom/dumbbell
 
 # Awards.
 #   Add/remove as many awards below as you like.
