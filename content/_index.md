@@ -46,12 +46,13 @@ sections:
     id: current-projects
     content:
       title: Works in Progress
+      count: 1
       filters:
         exclude_featured: true
         folders:
           - project
     design:
-      view: showcase
+      view: article-grid
       columns: 1
   - block: collection
     id: news
