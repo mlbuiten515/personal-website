@@ -32,17 +32,17 @@ profiles:
     url: https://www.linkedin.com/in/madisonbuitenhuis/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - GenAI for Synthetic Data
+  - Quantum Computing
 
 education:
-  - area: MS in Data Science and Artificial Intelligence
+  - area: MSc in Data Science and Artificial Intelligence
     institution: University of Liverpool
     date_start: 2024-09-26
     date_end: 2025-09-30
     summary: |
-      The topic of my Dissertation is currently being determined. My key area of interests are ...
+      The topic of my Dissertation is currently being determined. My key area of interest is deep learning for the physical sciences.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -54,7 +54,7 @@ education:
       Relevant Courses:
       - Machine Learning in Physical Sciences [Final Project]('https://github.com/jensenlawrence/phys490')
       - Algorithm Design and Data Abstraction
-      - Computational Physics
+      - Quantum Computing
   
 work:
   - position: Data Engineer
@@ -65,9 +65,9 @@ work:
     date_end: 2022-08-28
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Streamlined client PowerBI dashboard data by using SQL and M, developing metrics, and seamlessly integrating data
+      - Optimized ETL pipelines, significantly boosting operational efficiency for customer dashboards
+      - Maintained transparent communication within the team through presentations and regular Jira updates on project advancements
   - position: Data Analyst
     company_name: Scotiabank
     company_url: 'https://www.scotiabank.com/ca/en/personal.html'
@@ -76,9 +76,10 @@ work:
     date_end: 2021-04-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Spearheaded a project to develop a PowerBI dashboard for an internal team, allowing said team to increase efficiency
+      - Built above project utilizing SQL to gather and clean data, Python to automate running the SQL process daily, and PowerBI to construct the dashboard
+      - Constructed PostgreSQL queries for multiple internal teams to meet specific needs
+      - Researched and presented a personal project comparing the Hadoop ecosystem with Minio, DremIO and Kubernetes to the Data Governance team.
   - position: IT Analyst
     company_name: Scotiabank
     company_url: 'https://www.scotiabank.com/ca/en/personal.html'
@@ -87,9 +88,9 @@ work:
     date_end: 2020-12-24
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed sophisticated PostgreSQL queries to efficiently access and uphold data quality within a Hive database
+      - Performed data analysis on team-related datasets, extracting valuable insights
+      - Utilized skills in DBVisualizer to navigate Hive, demonstrating a high level of proficiency in database visualization tools
   - position: Technical Analyst
     company_name: Scotiabank
     company_url: 'https://www.scotiabank.com/ca/en/personal.html'
@@ -98,9 +99,9 @@ work:
     date_end: 2020-04-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Efficiently migrated substantial data volumes to a new internal website, ensuring efficiency and data integrity
+      - Contributed to the team's rebranding initiative by actively participating in the creation of an internal logo and newsletter
+      - Successfully adapted to the transition from in-office work to a remote environment
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -111,11 +112,49 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: DAX
         description: ''
         percent: 100
         icon: chart-bar
       - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: pandas
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: PyTorch
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: TensorFlow
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Sklearn
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Dev Tools
+    items:
+      - name: DBeaver
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: DBVisualizer
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: PowerBI
+        description: ''
+        percent: 40
+        icon: chart-bar
+      - name: Excel
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: GitHub
         description: ''
         percent: 40
         icon: circle-stack
