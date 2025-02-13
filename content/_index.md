@@ -32,36 +32,27 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: papers
+    id: projects
     content:
       title: Featured Projects
       filters:
+        featured: true
         folders:
-          - publication
-        featured_only: true
+          - project
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
+    id: current-projects
     content:
-      title: Recent Publications
-      text: ""
+      title: Works in Progress
       filters:
+        exclude_featured: true
         folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+          - project
     design:
       view: article-grid
-      columns: 1
+      columns: 3
   - block: collection
     id: news
     content:
