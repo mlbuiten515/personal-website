@@ -172,3 +172,5 @@ awards:
 ## About Me
 
 Madison Buitenhuis is a Data Science and Artifical Intelligence Masters student at the University of Liverpool. Her interests include distributed robotics, mobile computing and programmable matter. Her personal projects include...
+
+{style="color: white"}
