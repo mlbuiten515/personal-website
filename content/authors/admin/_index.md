@@ -42,7 +42,7 @@ education:
     date_start: 2024-09-26
     date_end: 2025-09-30
     summary: |
-      The topic of my Dissertation is currently being determined. My key area of interest is deep learning for the physical sciences.
+      The topic of my dissertation is currently being determined. My key area of interest is deep learning for the physical sciences.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -52,7 +52,7 @@ education:
     date_end: 2023-08-30
     summary: |
       Relevant Courses:
-      - Machine Learning in Physical Sciences [Final Project]('https://github.com/jensenlawrence/phys490')
+      - Machine Learning in Physical Sciences; [Final Project]('https://github.com/jensenlawrence/phys490')
       - Algorithm Design and Data Abstraction
       - Quantum Computing
   
