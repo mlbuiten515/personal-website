@@ -109,7 +109,7 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        icon: devicon/python
+        icon: custom/python
       - name: pandas
         icon: devicon/pandas
       - name: PyTorch
@@ -135,7 +135,7 @@ skills:
       - name: PowerBI
         icon: chart-bar-square
       - name: Excel
-        icon: view-columns
+        icon: custom/excel
       - name: GitHub
         icon: github
   - name: Hobbies & Interests
