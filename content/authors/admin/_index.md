@@ -137,7 +137,7 @@ skills:
       - name: Excel
         icon: view-columns
       - name: GitHub
-        icon: devicon/github
+        icon: github
   - name: Hobbies & Interests
     color: '#eeac02'
     color_border: '#f0bf23'
