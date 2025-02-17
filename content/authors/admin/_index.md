@@ -111,19 +111,19 @@ skills:
       - name: Python
         icon: custom/python
       - name: pandas
-        icon: devicon/pandas
+        icon: custom/pandas
       - name: PyTorch
         icon: custom/pytorch
       - name: TensorFlow
-        icon: devicon/tensorflow
+        icon: custom/tensorflow
       - name: Sklearn
-        icon: devicon/scikitlearn
+        icon: custom/scikitlearn
       - name: DAX
         icon: chart-bar
       - name: SQL
         icon: circle-stack
       - name: C
-        icon: devicon/c
+        icon: custom/c
   - name: Dev Tools
     items:
       - name: DBeaver
