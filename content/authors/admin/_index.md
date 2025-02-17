@@ -113,7 +113,7 @@ skills:
       - name: pandas
         icon: devicon/pandas
       - name: PyTorch
-        icon: devicon/pytorch
+        icon: custom/pytorch
       - name: TensorFlow
         icon: devicon/tensorflow
       - name: Sklearn
