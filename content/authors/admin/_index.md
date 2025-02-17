@@ -127,9 +127,9 @@ skills:
   - name: Dev Tools
     items:
       - name: DBeaver
-        icon: devicon/dbeaver
+        icon: custom/dbeaver
       - name: Hadoop
-        icon: devicon/hadoop
+        icon: custom/hadoop
       - name: DBVisualizer
         icon: circle-stack
       - name: PowerBI
@@ -137,7 +137,7 @@ skills:
       - name: Excel
         icon: custom/excel
       - name: GitHub
-        icon: github
+        icon: custom/github
   - name: Hobbies & Interests
     color: '#eeac02'
     color_border: '#f0bf23'
