@@ -116,7 +116,7 @@ skills:
         icon: custom/pytorch
       - name: TensorFlow
         icon: custom/tensorflow
-      - name: Sklearn
+      - name: Scikitlearn
         icon: custom/scikitlearn
       - name: DAX
         icon: chart-bar
