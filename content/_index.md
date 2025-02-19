@@ -57,7 +57,7 @@ sections:
       columns: 1
   - block: collection
     draft: true
-    id: news
+    id: current-readings
     content:
       title: Current Readings
       subtitle: 'list & commentary'
