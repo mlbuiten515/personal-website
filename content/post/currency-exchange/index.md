@@ -1,13 +1,13 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: Use of AI-Powered Precision in Machine Learning Models for Real-Time Currency Exchange Rate
+summary: ecording my thoughts an inspirtations regarding the'[Above Paper](https://al-kindipublishers.org/index.php/jefas/article/view/8451/7176)'
+date: 2025-02-18
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - LSTM
+  - Finance
+  - Forecasting
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
