@@ -1,6 +1,6 @@
 ---
 title: Use of AI-Powered Precision in Machine Learning Models for Real-Time Currency Exchange Rate
-summary: ecording my thoughts an inspirtations regarding the'[Above Paper](https://al-kindipublishers.org/index.php/jefas/article/view/8451/7176)'
+summary: Recording my thoughts an inspirtations regarding the'[Above Paper](https://al-kindipublishers.org/index.php/jefas/article/view/8451/7176)'
 date: 2025-02-18
 authors:
   - admin
