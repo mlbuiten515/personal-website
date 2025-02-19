@@ -52,7 +52,7 @@ education:
     date_end: 2023-08-30
     summary: |
       Relevant Courses:
-      - Machine Learning in Physical Sciences; [Final Project]("https://github.com/jensenlawrence/phys490")
+      - Machine Learning in Physical Sciences; [Final project]({{< relref "/projects" >}})
       - Algorithm Design and Data Abstraction
       - Quantum Computing
   
