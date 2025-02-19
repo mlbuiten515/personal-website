@@ -13,8 +13,8 @@ main:
 #  - name: Talks
 #    url: /#talks
 #    weight: 12
-  - name: News
-    url: /#news
+  - name: Reading List
+    url: /#Current Readings
     weight: 40
   - name: Experience
     url: experience/
