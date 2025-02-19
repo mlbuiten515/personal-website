@@ -9,8 +9,6 @@ tags:
   - featured
 ---
 
-The objective of this project is to develop convolutional neural networks capable of classifying gravitational wave signals from spin-aligned binary black hole mergers.
-
-To classify gravitational wave signals, we recreate the convolutional neural network "ConvNet5" presented in the paper, since this model performed the best out of the six models presented. As well, we develop our own Bayesian convolutional neural network.
+Convolutional neural networks capable of classifying gravitational wave signals from spin-aligned binary black hole mergers.
 
 <!--more-->
