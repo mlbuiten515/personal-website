@@ -35,8 +35,9 @@ sections:
     id: projects
     content:
       title: Featured Projects
+      count: 1
       filters:
-        featured: true
+        featured_only: true
         folders:
           - project
     design:
