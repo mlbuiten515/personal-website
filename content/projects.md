@@ -12,6 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
+      subtitle: test alignment
       text: I enjoy learning through the use of projects. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
