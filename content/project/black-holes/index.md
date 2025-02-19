@@ -1,6 +1,5 @@
 ---
 title: Gravitational Wave Clasification Utilising CNNs
-date: 2021-05-30
 external_link: https://github.com/jensenlawrence/phys490
 tags:
   - Python

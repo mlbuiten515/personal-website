@@ -1,6 +1,5 @@
 ---
 title: Dynamic Pricing
-date: 2025-02-18
 external_link: https://github.com/mlbuiten515/Dynamic-Pricing-Project
 tags:
   - Python
