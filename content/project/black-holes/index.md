@@ -6,7 +6,7 @@ tags:
   - Python
   - CNN
   - BNN
-  - featured
+featured: true
 ---
 
 Convolutional neural networks capable of classifying gravitational wave signals from spin-aligned binary black hole mergers.
