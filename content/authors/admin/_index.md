@@ -52,7 +52,7 @@ education:
     date_end: 2023-08-30
     summary: |
       Relevant Courses:
-      - Machine Learning in Physical Sciences; [Final project]({{< relref "/projects" >}})
+      - Machine Learning in Physical Sciences; [Gravitational Waves project]({{< relref "/projects" >}})
       - Algorithm Design and Data Abstraction
       - Quantum Computing
   
