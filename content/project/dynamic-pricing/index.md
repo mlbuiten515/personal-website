@@ -8,6 +8,6 @@ tags:
 featured: False
 ---
 
-Exploring dynamic airplan ticket pricing regarding time of year, location, and proximity to trip dates.
+Exploring dynamic airplane ticket pricing regarding time of year, location, and proximity to trip dates.
 
 <!--more-->
