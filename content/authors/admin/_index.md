@@ -32,7 +32,7 @@ profiles:
     url: https://www.linkedin.com/in/madisonbuitenhuis/
 
 interests:
-  - Deep Learning
+  - Computer Vision
   - GenAI for Synthetic Data
   - Quantum Computing
 
@@ -52,7 +52,7 @@ education:
     date_end: 2023-08-30
     summary: |
       Relevant Courses:
-      - Machine Learning in Physical Sciences; [Gravitational Waves project]({{< relref "/projects" >}})
+      - Deep Learning in Physical Sciences; [Gravitational Waves project]({{< relref "/projects" >}})
       - Algorithm Design and Data Abstraction
       - Quantum Computing
   
@@ -166,6 +166,6 @@ skills:
 
 ## About Me
 
-Madison Buitenhuis is a Data Science and Artifical Intelligence Masters student at the University of Liverpool. Her interests include Deep Learning, Quantum Computing, and GenAI for artifical data. She is currently working on a dynamic pricing project.
+Madison Buitenhuis is a Data Science and Artifical Intelligence Masters student at the University of Liverpool. Her interests include Computer Vision, Quantum Computing, and GenAI for artifical data. She is currently working on a dynamic pricing project.
 
 {style="color: white"}
