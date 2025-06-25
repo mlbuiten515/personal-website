@@ -42,7 +42,10 @@ education:
     date_start: 2024-09-26
     date_end: 2025-09-30
     summary: |
-      The topic of my dissertation is currently being determined. My key area of interest is deep learning for the physical sciences.
+      The title of my working dissertation is 'Next-Action Planning in Surgical Video Analysis.' I aim to create a system which  effectively predicts, plans, and displays the next steps during surgical procedures. 
+
+      The proposed system will consist of a large multimodal model (LMM) and a world model. The LMM will interpret the current stage of the surgery through video. It will then break down complex goals into immediate next steps, given the current stage. The world model will then be employed to convert the next steps to images. The system will identify and generate steps using the surgeon's primary visual interface to mirror real decision-making.
+ 
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -166,6 +169,6 @@ skills:
 
 ## About Me
 
-Madison Buitenhuis is a Data Science and Artifical Intelligence Masters student at the University of Liverpool. Her interests include Computer Vision, Quantum Computing, and GenAI for artifical data. She is currently working on a dynamic pricing project.
+Madison Buitenhuis is a Data Science and Artifical Intelligence Masters student at the University of Liverpool. Her interests include Computer Vision, Quantum Computing, and GenAI for artifical data. She is currently working on her dissertation 'Next-Action Planning in Surgical Video Analysis.'
 
 {style="color: white"}
