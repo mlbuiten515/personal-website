@@ -169,8 +169,6 @@ skills:
 
 ## About Me
 
-I'm Madison Buitenhuis, a Data Science and Artificial Intelligence Master's student at the University of Liverpool, with a passion for Computer Vision and Generative AI. My master's research focuses on Next-Action Planning in Surgical Video Analysis, where I develop AI systems using Large Multimodal Models and diffusion models for real-time surgical guidance, applying techniques like feature engineering and LMM fine-tuning.
-
-My practical experience includes optimizing ETL pipelines and designing data metrics as a Data Engineer at ThoughtWire, and developing interactive PowerBI dashboards while executing advanced PostgreSQL queries at Scotiabank. I'm driven to solve complex, real-world problems with AI, leveraging my strong foundation in data analysis, engineering, and cutting-edge machine learning.
+I'm Madison Buitenhuis, a Data Science and Artificial Intelligence Master's student at the University of Liverpool, driven by a passion for Computer Vision and Generative AI. My master's research focuses on Next-Action Planning in Surgical Video Analysis, where I develop AI systems using Large Multimodal Models and diffusion models. I am dedicated to leveraging cutting-edge machine learning to solve complex, real-world problems.
 
 {style="color: white"}
