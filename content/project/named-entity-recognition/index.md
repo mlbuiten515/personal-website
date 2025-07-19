@@ -1,6 +1,6 @@
 ---
 title: Named Entity Recognition for NLP
-date: 2025-04-29
+date: 2025-06-10
 external_link: https://github.com/RoverF/NER-for-NLP
 tags:
   - Python
