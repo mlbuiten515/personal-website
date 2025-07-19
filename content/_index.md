@@ -35,7 +35,7 @@ sections:
     id: projects
     content:
       title: Featured Projects
-      count: 1
+      count: 3
       filters:
         featured_only: true
         folders:
